@@ -2,11 +2,13 @@
   margin:0;
   padding: 0;
   font-family: sans-serif;
-  background-color:cream;
 }
 
+body{
+  background-color: #f2f2f2;
+}
 header{
-  background-image: url(https://www.woodhousestables.co.uk/wp-content/uploads/2017/04/alpaca-stables-and-field-shelters-range-banner-435.jpg);
+  background-image: url(https://aafl.com.au/wp-content/uploads/2018/04/Alpaca2.jpg);
   height: 50vh;
   background-size: cover;
   background-position: center;
